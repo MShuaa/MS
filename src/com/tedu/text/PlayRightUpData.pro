@@ -1,0 +1,12 @@
+attack1=image/play/right/up/attack001.png
+attack2=image/play/right/up/attack011.png
+attack3=image/play/right/up/attack021.png
+attack4=image/play/right/up/attack031.png
+attack5=image/play/right/up/attack041.png
+jump1=image/play/right/up/jump_body001.png
+jump2=image/play/right/up/jump_body011.png
+jump3=image/play/right/up/jump_body021.png
+jump4=image/play/right/up/jump_body031.png
+jump5=image/play/right/up/jump_body041.png
+jump6=image/play/right/up/jump_body051.png
+jump7=image/play/right/up/jump_body061.png
